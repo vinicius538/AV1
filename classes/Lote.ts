@@ -1,5 +1,5 @@
 import { StatusLote } from "../enums/StatusLote";
-import { Equipamento } from "./Equipamento NAO TA FEITO";
+import { Equipamento } from "./Equipamento";
 
 export class Lote {
   constructor(

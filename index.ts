@@ -1,11 +1,11 @@
 import * as path from "node:path";
 import { stdout } from "node:process";
 import { PapelUsuario } from "./enums/PapelUsuario";
-import { CLIinterface } from "./classes/CLIinterface NAO TA FEITO";
+import { CLIinterface } from "./classes/CLIinterface";
 import { ConfiguracaoMestre } from "./classes/ConfiguracaoMestre";
 import { Credencial } from "./classes/Credencial";
 import { RepositorioArquivo } from "./classes/RepositorioArquivo";
-import { ServicoAutenticacao } from "./classes/ServicoAutenticacao NAO TA FEITO";
+import { ServicoAutenticacao } from "./classes/ServicoAutenticacao";
 import { ServicoEquipamento } from "./classes/ServicoEquipamento";
 import { ServicoLote } from "./classes/ServicoLote";
 import { servicoOrganizacao } from "./classes/servicoOrganizacao";

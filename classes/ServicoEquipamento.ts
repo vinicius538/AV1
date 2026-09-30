@@ -2,7 +2,7 @@ import { randomUUID } from "node:crypto";
 import { EstadoFisico } from "../enums/EstadoFisico";
 import { StatusRastreamento } from "../enums/StatusRastreamento";
 import { TipoEquipamento } from "../enums/TipoEquipamento";
-import { Equipamento } from "./Equipamento NAO TA FEITO";
+import { Equipamento } from "./Equipamento";
 import { Movimentacao } from "./Movimentacao";
 import { RepositorioArquivo } from "./RepositorioArquivo";
 

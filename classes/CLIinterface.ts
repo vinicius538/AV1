@@ -7,7 +7,7 @@ import { EstadoFisico } from "../enums/EstadoFisico";
 import { StatusRastreamento } from "../enums/StatusRastreamento";
 import { TipoEquipamento } from "../enums/TipoEquipamento";
 import { ServicoEquipamento } from "./ServicoEquipamento";
-import { ServicoAutenticacao } from "./ServicoAutenticacao NAO TA FEITO";
+import { ServicoAutenticacao } from "./ServicoAutenticacao";
 import { ServicoLote } from "./ServicoLote";
 import { servicoOrganizacao } from "./servicoOrganizacao";
 import { ServicoRelatorio } from "./ServicoRelatorio";

@@ -1,4 +1,4 @@
-import { Equipamento } from "./Equipamento NAO TA FEITO";
+import { Equipamento } from "./Equipamento";
 import { RepositorioArquivo } from "./RepositorioArquivo";
 import { Lote } from "./Lote NAO TA FEITO";
 import { ValidadorDataEntrada } from "./ValidadorDataEntrada";
