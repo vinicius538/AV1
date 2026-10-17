@@ -1,6 +1,6 @@
 import { RepositorioArquivo } from "./RepositorioArquivo";
 import { VallidadorCNPJ } from "./ValidadorCNPJ";
-import { Organizacao } from "./Organizacao NAO TA FEITO";
+import { Organizacao } from "./Organizacao";
 import { Contrato } from "./Contrato";
 
 export class servicoOrganizacao {

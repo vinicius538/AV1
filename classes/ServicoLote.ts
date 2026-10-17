@@ -1,6 +1,6 @@
 import { Equipamento } from "./Equipamento";
 import { RepositorioArquivo } from "./RepositorioArquivo";
-import { Lote } from "./Lote NAO TA FEITO";
+import { Lote } from "./Lote";
 import { ValidadorDataEntrada } from "./ValidadorDataEntrada";
 import { StatusLote } from "../enums/StatusLote";
 import { randomUUID } from "node:crypto";
